@@ -25,7 +25,7 @@ const Nav = () => {
           ))}
         </ul>
         {/* 1024px la entha element hidden aaidanum */}
-        <button className="bg-red-400 text-white font-palanquin font-semibold py-2 px-5 rounded-xl max-lg:hidden">
+        <button className="bg-red-500 text-white text-sm font-montserrat font-semibold py-2 px-5 rounded-xl max-lg:hidden">
           Sign In/Explore
         </button>
         {/* 1024px ku vanthuchu na.. entha element block aaidanum */}
